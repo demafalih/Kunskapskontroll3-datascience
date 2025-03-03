@@ -15,16 +15,10 @@ Detta projekt genomför en jämförande analys av två personers personliga Spot
 # För att köra detta projekt behöver följande bibliotek installeras:
 
 **Visualiseringar:** 
-Matplotlib
-Plotly
-PIL
-Seaborn
-Streamlit
+Matplotlib, Plotly, PIL, Seaborn, Streamlit
 
 **Datahantering:**
-Pandas
-Sqlite3
-Numpy
+Pandas, Sqlite3, Numpy
 
 **Programmeringsspråk:**
 Python
